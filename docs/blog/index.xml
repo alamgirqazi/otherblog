@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Yep. this is my &#39;Other blog&#39;</title>
+    <link>https://alamgirqazi.github.io/otherblog/blog/</link>
+    <description>Recent content in Blog on Yep. this is my &#39;Other blog&#39;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2017 Alamgir Qazi</copyright>
+    <lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alamgirqazi.github.io/otherblog/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Models</title>
+      <link>https://alamgirqazi.github.io/otherblog/blog/models/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alamgirqazi.github.io/otherblog/blog/models/</guid>
+      <description>Model - Mark Manson Emerson once wrote, &amp;ldquo;What you do speaks so loudly I cannot hear what you say.&amp;rdquo;
+Your movement or lack of movement reflects and alters emotions, not the words. Words are the side-effect. Sex is the side-effect. The game is emotions, emotions through movement. If you learn anything from this book, let that be it.
+As a man, you don&amp;rsquo;t have to actually be rich and famous, you just have to show a lot of potential for being rich and famous to be considered extremely attractive.</description>
+    </item>
+    
+  </channel>
+</rss>

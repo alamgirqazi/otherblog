@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/about/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/blog/models/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/blog/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/books/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/categories/books/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/categories/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/license/</loc>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/mark-manson/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/categories/mark-manson/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

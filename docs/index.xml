@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yep. this is my &#39;Other blog&#39;</title>
+    <link>https://alamgirqazi.github.io/otherblog/</link>
+    <description>Recent content on Yep. this is my &#39;Other blog&#39;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2017 Alamgir Qazi</copyright>
+    <lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://alamgirqazi.github.io/otherblog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://alamgirqazi.github.io/otherblog/about/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alamgirqazi.github.io/otherblog/about/</guid>
+      <description> This page is under construction ;)
+ </description>
+    </item>
+    
+    <item>
+      <title>Models</title>
+      <link>https://alamgirqazi.github.io/otherblog/blog/models/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alamgirqazi.github.io/otherblog/blog/models/</guid>
+      <description>Model - Mark Manson Emerson once wrote, &amp;ldquo;What you do speaks so loudly I cannot hear what you say.&amp;rdquo;
+Your movement or lack of movement reflects and alters emotions, not the words. Words are the side-effect. Sex is the side-effect. The game is emotions, emotions through movement. If you learn anything from this book, let that be it.
+As a man, you don&amp;rsquo;t have to actually be rich and famous, you just have to show a lot of potential for being rich and famous to be considered extremely attractive.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://alamgirqazi.github.io/otherblog/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alamgirqazi.github.io/otherblog/home/</guid>
+      <description>This is will be for my other book notes</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://alamgirqazi.github.io/otherblog/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alamgirqazi.github.io/otherblog/license/</guid>
+      <description>You can use this page to put a license on the contents of your blog, like so:
+ The MIT License (MIT)
+Copyright &amp;copy; 2015 Nishanth Shanmughamnishanth.gerrard@gmail.com
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+  </channel>
+</rss>
