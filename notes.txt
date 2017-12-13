@@ -2,3 +2,4 @@ hugo server
 
 themes > example site
 
+hugo for publishing
