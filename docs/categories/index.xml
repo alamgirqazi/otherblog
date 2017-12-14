@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2017 Alamgir Qazi</copyright>
-    <lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alamgirqazi.github.io/otherblog/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>Books</title>
       <link>https://alamgirqazi.github.io/otherblog/categories/books/</link>
-      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://alamgirqazi.github.io/otherblog/categories/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheryl Strayed</title>
+      <link>https://alamgirqazi.github.io/otherblog/categories/cheryl-strayed/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alamgirqazi.github.io/otherblog/categories/cheryl-strayed/</guid>
       <description></description>
     </item>
     
@@ -27,6 +36,15 @@
       <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://alamgirqazi.github.io/otherblog/categories/mark-manson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiny Beautiful Things</title>
+      <link>https://alamgirqazi.github.io/otherblog/categories/tiny-beautiful-things/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alamgirqazi.github.io/otherblog/categories/tiny-beautiful-things/</guid>
       <description></description>
     </item>
     

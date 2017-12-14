@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2017 Alamgir Qazi</copyright>
-    <lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://alamgirqazi.github.io/otherblog/tags/books/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TinyBeautifulThings</title>
+      <link>https://alamgirqazi.github.io/otherblog/blog/tinybeautifulthings/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://alamgirqazi.github.io/otherblog/blog/tinybeautifulthings/</guid>
+      <description>Tiny Beautiful Things - Cheryl Strayed Because we are all, in the private kingdom of our hearts, desperate for the company of a wise, true friend. Someone who isn’t embarrassed by our emotions, or her own, who recognizes that life is short and that all we have to offer, in the end, is love.
+When I was done writing it, I understood that things happened just as they were meant to.</description>
+    </item>
     
     <item>
       <title>Models</title>
