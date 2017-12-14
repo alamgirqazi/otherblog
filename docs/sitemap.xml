@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://alamgirqazi.github.io/otherblog/blog/tipsforinfj/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alamgirqazi.github.io/otherblog/about/</loc>
     <lastmod>2017-12-13T00:00:00+00:00</lastmod>
   </url>
@@ -58,6 +63,18 @@
   </url>
   
   <url>
+    <loc>https://alamgirqazi.github.io/otherblog/categories/infj/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/infj/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://alamgirqazi.github.io/otherblog/license/</loc>
   </url>
   
@@ -87,6 +104,18 @@
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/tags/tiny-beautiful-things/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/categories/tips-for-infj/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/tips-for-infj/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
