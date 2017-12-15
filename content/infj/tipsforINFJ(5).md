@@ -1,5 +1,5 @@
 +++
-title = "tipsforINFJ4"
+title = "tipsforINFJ5"
 description = ""
 tags = [
    "Tips for INFJ",
@@ -11,7 +11,7 @@ categories = [
     "INFJ",]
 +++
 
-## Tips for INFJ (4)
+## Tips for INFJ (5)
 
 > When I think of some life tips for myself and those like me , I would think:
 

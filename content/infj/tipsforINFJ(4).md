@@ -1,5 +1,5 @@
 +++
-title = "tipsforINFJ5"
+title = "tipsforINFJ4"
 description = ""
 tags = [
    "Tips for INFJ",
@@ -11,7 +11,7 @@ categories = [
     "INFJ",]
 +++
 
-## Tips for INFJ (5)
+## Tips for INFJ (4)
 
 > If you are an INFJ, I’d like to congratulate you first of all, for falling into the category of the rarest of all types (<2%). Secondly, be prepared to read what I’m going to tell you-
 
