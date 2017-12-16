@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alamgirqazi.github.io/otherblog/blog/infj/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <loc>https://alamgirqazi.github.io/otherblog/infj/</loc>
+    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -13,22 +13,22 @@
   </url>
   
   <url>
-    <loc>https://alamgirqazi.github.io/otherblog/infj/tipsforinfj2/</loc>
+    <loc>https://alamgirqazi.github.io/otherblog/tipsforinfj/tipsforinfj2/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alamgirqazi.github.io/otherblog/infj/tipsforinfj3/</loc>
+    <loc>https://alamgirqazi.github.io/otherblog/tipsforinfj/tipsforinfj3/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alamgirqazi.github.io/otherblog/infj/tipsforinfj4/</loc>
+    <loc>https://alamgirqazi.github.io/otherblog/tipsforinfj/tipsforinfj4/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alamgirqazi.github.io/otherblog/infj/tipsforinfj5/</loc>
+    <loc>https://alamgirqazi.github.io/otherblog/tipsforinfj/tipsforinfj5/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,7 +43,7 @@
   </url>
   
   <url>
-    <loc>https://alamgirqazi.github.io/otherblog/infj/tipsforinfj1/</loc>
+    <loc>https://alamgirqazi.github.io/otherblog/tipsforinfj/tipsforinfj1/</loc>
     <lastmod>2017-12-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,20 +88,14 @@
   </url>
   
   <url>
-    <loc>https://alamgirqazi.github.io/otherblog/infj/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://alamgirqazi.github.io/otherblog/tags/infj/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/categories/infj/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -152,8 +146,14 @@
   </url>
   
   <url>
-    <loc>https://alamgirqazi.github.io/otherblog/</loc>
+    <loc>https://alamgirqazi.github.io/otherblog/tipsforinfj/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/</loc>
+    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
