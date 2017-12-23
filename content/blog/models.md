@@ -5,7 +5,7 @@ tags = [
 "books",
     "Mark Manson",
 ]
-date = "2017-12-13"
+date = "2017-12-23"
 categories = [
     "books",
     "Mark Manson"]
@@ -81,3 +81,25 @@ Emerson once wrote, "What you do speaks so loudly I cannot hear what you say."
 > My honesty and complete willingness to be rejected (or to reject them) demonstrates my nonneediness and for the first time, makes them incredibly attracted to me.
 
 > Men who are not needy establish strict boundaries because they value their own time and happiness more than receiving the attention from a woman.
+
+> "Any individual who wants to be a leader has to be controversial. Otherwise they don’t stand for anything."- Richard M. Nixon
+
+> You CANNOT be an attractive and lifechanging presence to some women without being a joke or an embarrassment to others. You simply can’t. You have to be controversial. You have to polarize. It’s the name of the game.
+
+> You’d be surprised how many women will respond with attraction to nothing other than a man who is bold and willing to make a move.
+
+> Remember women are turned on by men who desire them. They are also turned on by the behavior of high status. When you’re expressing your truth and showing shameless desire for her, you are demonstrating both of these qualities that turns her on.
+
+> "I have failed over and over and over again in my life. And that is why I succeed."- Michael Jordan, Athlete
+
+> Show me someone who is successful at anything and I’ll show you someone who has been rejected and failed more than you can ever know.
+
+> As with any failure, it’s not until you’ve been rejected a certain amount that you realize how insignificant it actually is.
+
+> What stops the vast majority of men out there from going out and getting what they want (and deserve) in their love lives, is that they take rejection, failure and incompatibilities personally, as if it says something true about them.
+
+> The only truth about you is what you decide about yourself. And the more truth you know about yourself, the more you’ll be unaffected by others’ reactions to you and the more attractive you’ll become.
+
+> The Three Fundamentals are: Creating an attractive and appealing lifestyle; Overcoming your fears and anxiety around women, and mastering the expression of your emotions and communicating fluidly.
+
+> “Man sacrifices his health in order to make money. Then he sacrifices his money to recuperate his health. And then he is so anxious about the future that he does not enjoy the present; the result being that he does not live in the present or the future; he lives as if he is never going to die, and then dies having never really lived.”- The Dalai Lama
