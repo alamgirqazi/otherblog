@@ -103,3 +103,34 @@ Emerson once wrote, "What you do speaks so loudly I cannot hear what you say."
 > The Three Fundamentals are: Creating an attractive and appealing lifestyle; Overcoming your fears and anxiety around women, and mastering the expression of your emotions and communicating fluidly.
 
 > “Man sacrifices his health in order to make money. Then he sacrifices his money to recuperate his health. And then he is so anxious about the future that he does not enjoy the present; the result being that he does not live in the present or the future; he lives as if he is never going to die, and then dies having never really lived.”- The Dalai Lama
+
+> “Man sacrifices his health in order to make money. Then he sacrifices his money to recuperate his health. And then he is so anxious about the future that he does not enjoy the present; the result being that he does not live in the present or the future; he lives as if he is never going to die, and then dies having never really lived.”- The Dalai Lama
+
+> women judge men far less based on actual physical dimensions and far more on style, grooming and how they present themselves.
+
+> the less well off SHE is, the more important money will be to her.
+
+> It’s simple: money, looks and success are all indicators of status. Women are attracted to status. Behavior is also an indicator of status.
+
+> The concept of social proof comes from influence psychology and is the idea that as humans, when we see many other people valuing something, we will unconsciously value it ourself.
+
+> This is also why the best way to net a Top 1% girl is to connect with her genuinely and emotionally as soon as possible. Find something that you like about her other than her looks and relate that to her honestly.
+
+> Or as the old saying goes: “Tell the beautiful girls they’re smart and tell the smart girls that they’re beautiful.”
+
+> your life and everything that it encompasses, is a reflection of your emotional investment in yourself. And the more invested you are in yourself, the less needy you are with others.
+
+> your outward appearance is a reflection of your selfinvestment (or lack thereof).
+
+> women judge men’s physical attractiveness based on their clothes, grooming and body language.
+
+> Guys are spending hours and hours at the gym obsessing over their biceps and bench presses, when the sexiest muscles in their body have always been in their throat.
+
+> You want to focus more on the literature. Here are some names to start with: Gabriel Garcia Marquez, Ernest Hemingway, Virginia Woolf, James Joyce, Vladmir Nabokov, John Steinbeck, Charles  seckDickens, Leo Tolstoy, F. Scott Fitzgerald, William Faulkner, etc.
+
+> Ayn Rand’s “Atlas Shrugged” changed my life in college.
+
+> my high school literature teacher always told us: “You read literature because you can NEVER meet enough people.”
+
+> Poor lifestyle choices reflect a lack of investment in yourself, which in turn causes you to be more needy around others for validation.
+
