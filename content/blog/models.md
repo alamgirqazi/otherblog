@@ -5,7 +5,7 @@ tags = [
 "books",
     "Mark Manson",
 ]
-date = "2017-12-23"
+date = "2018-01-12"
 categories = [
     "books",
     "Mark Manson"]
@@ -133,4 +133,42 @@ Emerson once wrote, "What you do speaks so loudly I cannot hear what you say."
 > my high school literature teacher always told us: “You read literature because you can NEVER meet enough people.”
 
 > Poor lifestyle choices reflect a lack of investment in yourself, which in turn causes you to be more needy around others for validation.
+
+> Poor lifestyle choices reflect a lack of investment in yourself, which in turn causes you to be more needy around others for validation.
+
+
+> “Life shrinks and expands in proportion to one’s courage.”- Anais Nin
+
+> Women communicate more in feelings and specifically, through intentions. Sure, they still pay attention to the facts and stories going on on the surface, but what’s actually communicated to them is the intention and feeling underneath.
+
+> This is sub-communication.
+
+> “You know, if you weren’t so cute, I’d ditch you for saying that.”
+
+> This is more or less the blueprint of seduction: a strong, high status, attractive exterior (lifestyle and looks), fearless, and able to open up and share your vulnerable side with her (and theoretically, only her). Women get weak in the knees for this. And it’s not even conscious in them most of the time.
+
+> Questions Versus Statements:
+
+> “I love olives in my drink. When I was a kid I used to eat them straight out of the jar,” is far more interesting than, “Do you like olives in your drink?”
+
+> Cold-reading is a skill where you’re able to intuitively “know” something about someone else without actually knowing it.
+
+> It’s like being a psychic without
+
+> “What do you do for work?” translates to: “You seem to be a creative person. I bet your job is interesting.”
+
+> “How do you guys know each other?” translates to: “You guys look like you’ve been friends for a long time.”
+
+> The only thing people love more than talking about themselves is hearing about themselves.
+
+> Our level of intimacy with one another doesn’t come from how much we talk about, as much as it comes from the experiences we share.
+
+> Every decision should be yours and she should be expected to follow it. Remove, “What do you want to do now?” from your dating vocabulary. Never say it again.
+
+> Proximity: This one is subtle, but the more you work on your lifestyle, body language and style, the more of these you will get. It’s when a woman places herself near you when she doesn’t have to.
+
+> Pursue one social hobby regularly:
+
+
+> Dear Men of Craigslist,
 
