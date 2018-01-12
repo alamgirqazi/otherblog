@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/blog/models/</loc>
-    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -49,31 +49,25 @@
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/blog/</loc>
-    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alamgirqazi.github.io/otherblog/tags/books/</loc>
-    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/categories/books/</loc>
-    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/books/</loc>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/categories/</loc>
-    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alamgirqazi.github.io/otherblog/tags/cheryl-strayed/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -84,13 +78,13 @@
   </url>
   
   <url>
-    <loc>https://alamgirqazi.github.io/otherblog/home/</loc>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/cheryl-strayed/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://alamgirqazi.github.io/otherblog/tags/infj/</loc>
-    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://alamgirqazi.github.io/otherblog/home/</loc>
   </url>
   
   <url>
@@ -100,30 +94,30 @@
   </url>
   
   <url>
-    <loc>https://alamgirqazi.github.io/otherblog/license/</loc>
-  </url>
-  
-  <url>
-    <loc>https://alamgirqazi.github.io/otherblog/tags/mark-manson/</loc>
-    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/infj/</loc>
+    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://alamgirqazi.github.io/otherblog/license/</loc>
+  </url>
+  
+  <url>
     <loc>https://alamgirqazi.github.io/otherblog/categories/mark-manson/</loc>
-    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/mark-manson/</loc>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/tags/</loc>
-    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alamgirqazi.github.io/otherblog/tags/tiny-beautiful-things/</loc>
-    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -134,13 +128,19 @@
   </url>
   
   <url>
-    <loc>https://alamgirqazi.github.io/otherblog/tags/tips-for-infj/</loc>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/tiny-beautiful-things/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/categories/tips-for-infj/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/tips-for-infj/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -153,7 +153,7 @@
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/</loc>
-    <lastmod>2017-12-23T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
