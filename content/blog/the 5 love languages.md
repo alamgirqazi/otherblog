@@ -1,5 +1,5 @@
 +++
-title = "the 5 love languages"
+title = "the5lovelanguages"
 description = ""
 tags = [
 "books",
