@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://alamgirqazi.github.io/otherblog/blog/lovelanguages/</loc>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alamgirqazi.github.io/otherblog/blog/models/</loc>
     <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url>
@@ -49,25 +54,25 @@
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/blog/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/tags/books/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/categories/books/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/categories/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,6 +85,18 @@
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/categories/cheryl-strayed/</loc>
     <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/gary-chapman/</loc>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/categories/gary-chapman/</loc>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,7 +134,19 @@
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/tags/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/tags/the-5-love-language/</loc>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alamgirqazi.github.io/otherblog/categories/the-5-love-language/</loc>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -153,7 +182,7 @@
   
   <url>
     <loc>https://alamgirqazi.github.io/otherblog/</loc>
-    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
