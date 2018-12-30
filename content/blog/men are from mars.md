@@ -1,5 +1,5 @@
 +++
-title = "Men Are From Mars"
+title = "MenAreFromMars"
 description = ""
 tags = [
 "books",
